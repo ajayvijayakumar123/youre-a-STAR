@@ -1,6 +1,6 @@
-#You're a S.T.A.R.?
+# You're a S.T.A.R.?
 
-##Purpose
+## Purpose
 Ever blanked on a behavioral interview question, even though you have tons of experiences?
 
 This application stores and filters experiences for behavioral interview preparation to make sure you can brush up and
